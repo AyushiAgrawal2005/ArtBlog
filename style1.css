@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#blog{
+    width: 21%;
+    height: auto;
+    padding-bottom: 10px;
+    box-shadow: 8px 8px 20px 0px rgba(90, 90, 90, 0.2);
+}
+img{
+    height: 42%;
+    width: 95%;
+    border-radius: 5%;
+}
+#hash{
+    color: purple;
+    background-color:rgba(247, 186, 247,0.5) ;
+    border-radius: 5px;
+    width: fit-content;
+    font-size: small;
+    
+}
+footer{
+    font-size: small;
+    color: rgb(102, 101, 101);
+}
